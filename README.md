@@ -211,10 +211,4 @@ Contributions, suggestions, bug reports, and feature requests are welcome.
 
 This project is being developed as a hackathon and innovation initiative. Features listed above represent the proposed functionality and should be marked complete as they are implemented and tested.
 
-## 📄 License
-
-A license has not yet been selected. Add an appropriate open-source license before distributing the project under specific reuse terms.
-
----
-
 **FormSarathi AI — Your Voice. Your Language. Your Digital Assistant.**
